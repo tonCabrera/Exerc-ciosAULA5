@@ -1,23 +1,14 @@
-# Título do repositório🚀
+# Atividade Aula 5 🚀
 
-Um parágrafo da descrição do projeto vai aqui
+Atividades com Variaveis 
 
 # 🔌Como fazer funcionar na sua máquina:
 
 - Instale Python na sua máquina;
-- Instale a biblioteca tal….
 
 # 📋Pré-requisitos do sistema:
 
-> Exemplo
-> 
-
-## 🛠️Tecnologias utilizadas:
-
-> Editor de código
-Linguagens
-Bibliotecas
-> 
+> Um editor de código que tenha interpretador Python
 
 ## Versões:
 
@@ -26,5 +17,5 @@ Bibliotecas
 
 ## Autores:
 
-> Exemplo
->
+> Adjoilton Cabrea
+
